@@ -18,6 +18,6 @@ Koraci za kreiranje:
 Stanje baze podataka nakon migracije: <br />
 <img src="images/DatabaseTables.png" width="200">
 <img src="images/AspNetUsersTable.png" width="200">
-<img src="images/images/TicketTable.png" width="200">
+<img src="images/TicketTable.png" width="200">
 
 Detaljno objašnjenje kreiranje modela i migracije na bazu podataka se nalazi u vježbi 5.
