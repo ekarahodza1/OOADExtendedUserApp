@@ -15,9 +15,9 @@ Koraci za kreiranje:
 4. Primijeniti default-nu incijalizaciju identiteta u `Program` klasi
 5. Napraviti migraciju i uraditi update baze podataka u `Package Manager` konzoli
 
-Stanje baze podataka nakon migracije:
-![Lista tabela](images/DatabaseTables.png)
-![AspNetUsers tabela](images/AspNetUsersTable.png)
-![Tickets tabela](images/TicketsTabela.png)
+Stanje baze podataka nakon migracije: <br />
+<img src="images/DatabaseTables.png" width="100">
+<img src="images/AspNetUsersTable.png" width="100">
+<img src="images/images/TicketTable.png" width="100">
 
 Detaljno objašnjenje kreiranje modela i migracije na bazu podataka se nalazi u vježbi 5.
